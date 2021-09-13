@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <!-- ![I am Student, Programmer, and Trader](https://media-exp1.licdn.com/dms/image/C5616AQFoehAQKhwP1g/profile-displaybackgroundimage-shrink_200_800/0/1628136991568?e=1637193600&v=beta&t=l0OUyXcNP6D4yFFbtk5TXKeXS8uyp8ujo_GvphNlmAI)
  -->
  
-# Hi there 👋, my name is Fikri Ali Fata 😎
+# Hi there 👋, my name is Fikri Ali Fata 😊
 ### I am Student, Programmer, and Trader
 a logical thinker, win-win solution, predator, tiger, enjoy life, chocolate. that's me and what i like 😊
 
