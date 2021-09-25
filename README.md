@@ -26,7 +26,7 @@ a logical thinker, win-win solution, predator, tiger, enjoy life, chocolate. tha
 
 ## Skills and Experience 💪🏻
 * 📱 Flutter
-* ⚛ React, Next Js
+* ⚛ React Js, Next Js
 * 💻 HTML, CSS, JS
 * 🎃 MySQL, Firebase
 
@@ -39,12 +39,13 @@ a logical thinker, win-win solution, predator, tiger, enjoy life, chocolate. tha
 
 ## Overview of Recent Projects 💼
 
+
 https://user-images.githubusercontent.com/36532126/133045102-aae7df8c-20a0-4e1d-ab89-1c38637016bd.mp4
 
 
 
-[<img src="https://github.com/alifatav/flutter_ui_simple_fashion_shop/blob/main/overview_ss01.jpg?raw=true" width="250px">](https://github.com/alifatav/flutter_ui_simple_fashion_shop)
-[<img src="https://github.com/alifatav/flutter_ui_welcome_login_screen/blob/master/assets/overview01.jpg?raw=true" width="250px">](https://github.com/alifatav/flutter_ui_welcome_login_screen)
+[<img src="https://github.com/alifatav/flutter_ui_simple_fashion_shop/blob/main/overview_ss01.jpg?raw=true" width="250px">](https://github.com/alifatav/flutter_ui_simple_fashion_shop) [<img src="https://github.com/alifatav/flutter_ui_welcome_login_screen/blob/master/assets/overview01.jpg?raw=true" width="250px">](https://github.com/alifatav/flutter_ui_welcome_login_screen) [<img src="https://github.com/alifatav/flutter_ui_quiz_app/blob/main/overview01.jpg?raw=true" width="250px">](https://github.com/alifatav/flutter_ui_quiz_app)
+
 
 ## Get to know me 👀
 **Alifatav**
