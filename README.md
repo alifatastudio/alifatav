@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  -->
  
 # Hi there 👋, my name is Fikri Ali Fata 😊
-### I am Student 👨🏻‍🎓 Programmer 🧑🏻‍💻 and Trader 🙇🏻‍♂️
+### I am Undergraduate Student 👨🏻‍🎓 Programmer 🧑🏻‍💻 and Trader 🙇🏻‍♂️
 
 I love...
 - Chocolate 🍫
