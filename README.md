@@ -17,12 +17,25 @@ Here are some ideas to get you started:
  -->
  
 # Hi there 👋, my name is Fikri Ali Fata 😊
-### I am Student, Programmer, and Trader
-a logical thinker, win-win solution, predator, tiger, enjoy life, chocolate. that's me and what i like 😊
+### I am Student 👨🏻‍🎓 Programmer 🧑🏻‍💻 and Trader 🙇🏻‍♂️
 
-- 🌱 I’m currently learning Flutter 
-- 👯 I’m looking to collaborate on Flutter projects 
-- 💬 Ask me about everythink :D 
+I love...
+- Chocolate 🍫
+- My Laptop 💻
+- My Smartphone 📱
+
+dislike...
+- Silly Talks (debate, etc) 🤐
+- Parasitisme 🦠
+
+others...
+- Man UTD fans 🤡
+
+I have a dream to own various properties 🏢 and travel all over the world 🌏
+
+I will do my best in every job ⚡
+
+That's all 👀
 
 ## Skills and Experience 💪🏻
 * 📱 Flutter
