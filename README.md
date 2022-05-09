@@ -17,25 +17,6 @@ Here are some ideas to get you started:
  -->
  
 # Hi there 👋, my name is Fikri Ali Fata 😊
-### I am Undergraduate Student 👨🏻‍🎓 Programmer 🧑🏻‍💻 and Trader 🙇🏻‍♂️
-
-I love...
-- Chocolate 🍫
-- My Laptop 💻
-- My Smartphone 📱
-
-dislike...
-- Silly Talks (debate, etc) 🤐
-- Parasitisme 🦠
-
-others...
-- Man UTD fans 🤡
-
-I have a dream to own various properties 🏢 and travel all over the world 🌏
-
-I will do my best in every job ⚡
-
-That's all 👀
 
 ## Skills and Experience 💪🏻
 * 📱 Flutter
@@ -48,24 +29,5 @@ That's all 👀
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> <img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> <img alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> <img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alifatav)](https://github.com/anuraghazra/github-readme-stats)
-
-
-## Overview of Recent Projects 💼
-
-
-https://user-images.githubusercontent.com/36532126/133045102-aae7df8c-20a0-4e1d-ab89-1c38637016bd.mp4
-
-
-
-[<img src="https://github.com/alifatav/flutter_ui_simple_fashion_shop/blob/main/overview_ss01.jpg?raw=true" width="250px">](https://github.com/alifatav/flutter_ui_simple_fashion_shop) [<img src="https://github.com/alifatav/flutter_ui_welcome_login_screen/blob/master/assets/overview01.jpg?raw=true" width="250px">](https://github.com/alifatav/flutter_ui_welcome_login_screen) [<img src="https://github.com/alifatav/flutter_ui_quiz_app/blob/main/overview01.jpg?raw=true" width="250px">](https://github.com/alifatav/flutter_ui_quiz_app)
-
-
-## Get to know me 👀
-**Alifatav**
-* Email : alifatav@mail.com / alifatav@outlook.com
-* [LinkedIn](https://www.linkedin.com/in/alifatav) 
-* [Instagram](https://www.instagram.com/alifatav)
-* [Github](https://github.com/alifatav)
-* [LinkTree](https://linktr.ee/alifatav)
 
 ![Profile views](https://gpvc.arturio.dev/alifatav)  
